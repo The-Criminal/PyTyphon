@@ -1,0 +1,11 @@
+dunge = 'https://pastebin.com/hJ4wQCMm'
+google = 'https://www.google.com'
+up = 'https://github.com/ainzooalgown07/PYSearcher'
+a = ['1.0']
+fw = '/' 
+truth = 'https://www.truthfinder.com/people-search/'
+them = 'https://thatsthem.com/name/'
+been = "https://www.beenverified.com/people/"
+zab = 'https://www.zabasearch.com/phone/'
+rev = 'https://www.reversephonelookup.com/number/2066787881/'
+sep = ('=-----------------------------------------------------------------=')
