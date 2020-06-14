@@ -12,6 +12,7 @@ if [ "$que" = "yes" ]
 then
     echo "yup cool kids always use firefox"
 
+
 elif [ "$que" = "no" ]
 then
     echo "oh ok lets install it real quick"
