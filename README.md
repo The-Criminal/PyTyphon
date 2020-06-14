@@ -60,6 +60,3 @@ always use 'exit' to close.
 <img src='https://github.com/The-Criminal/PyTyphon/blob/master/.pictures/people.png' width=500></img>
 <img src='https://github.com/The-Criminal/PyTyphon/blob/master/.pictures/number.png' width=500></img></p>
 
-
-## Contact :fax:
-Telegram : @crustypotato
