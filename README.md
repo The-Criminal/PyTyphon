@@ -1,9 +1,9 @@
 <p align="center">
-<img src='https://github.com/ainzooalgown07/PyTyphon/blob/master/.pictures/main.png' width=500></img></p>
+<img src='https://github.com/The-Criminal/PyTyphon/blob/master/.pictures/main.png' width=500></img></p>
 
 <p align="center">
-<a href = 'https://github.com/ainzooalgown07/PyTyphon'> <img src ='https://badges.frapsoft.com/os/v1/open-source.png?v=103'></img></a>
-<a href = 'https://github.com/ainzooalgown07/PyTyphon'> <img src ='https://img.shields.io/badge/Maintained%3F-yes-green.svg'></img></a>
+<a href = 'https://github.com/The-Criminal/PyTyphon'> <img src ='https://badges.frapsoft.com/os/v1/open-source.png?v=103'></img></a>
+<a href = 'https://github.com/The-Criminal/PyTyphon'> <img src ='https://img.shields.io/badge/Maintained%3F-yes-green.svg'></img></a>
 <a href = 'https://www.python.org/'> <img src ='https://img.shields.io/badge/Made%20with-Python-1f425f.svg'></img></a>
 </p>
 
@@ -56,9 +56,9 @@ always use 'exit' to close.
 
 
 <p align="center">
-<img src='https://github.com/ainzooalgown07/PyTyphon/blob/master/.pictures/main.png' width=500></img>
-<img src='https://github.com/ainzooalgown07/PyTyphon/blob/master/.pictures/people.png' width=500></img>
-<img src='https://github.com/ainzooalgown07/PyTyphon/blob/master/.pictures/number.png' width=500></img></p>
+<img src='https://github.com/The-Criminal/PyTyphon/blob/master/.pictures/main.png' width=500></img>
+<img src='https://github.com/The-Criminal/PyTyphon/blob/master/.pictures/people.png' width=500></img>
+<img src='https://github.com/The-Criminal/PyTyphon/blob/master/.pictures/number.png' width=500></img></p>
 
 
 ## Contact :fax:
