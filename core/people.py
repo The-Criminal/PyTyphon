@@ -113,7 +113,7 @@ class llama:
                 time.sleep(random.randint(1, 3))
                 print(Fore.YELLOW, Style.BRIGHT + sep + Style.RESET_ALL)
 
-
+#test
 
         elif samantha == 'T':
             options = Options()
