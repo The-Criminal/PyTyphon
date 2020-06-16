@@ -27,6 +27,10 @@ chmod +x install.sh
 ./install.sh
 ```
 
+For Windows download or clone the script.
+And mannually download selenium firefox webdriver and put it same dir
+and then run python pytyphon.py
+ 
 ## Usage :keyboard:
 Go to the directory where you cloned or Downloaded the file open your terminal and type
 ```
