@@ -2,3 +2,11 @@
 *** You are running in headless mode.
 1592112184043	Marionette	INFO	Listening on port 42997
 1592112184094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592114862281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3AQNcx"
+*** You are running in headless mode.
+1592114865131	Marionette	INFO	Listening on port 34845
+1592114865205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592114934689	Marionette	INFO	Stopped listening on port 34845
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

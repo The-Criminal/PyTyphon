@@ -42,6 +42,7 @@ class main:
             sys.exit()
 
 
+
 # aggrement
 os.system('clear')
 if 'no' in open('agree.txt').read():

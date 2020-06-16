@@ -112,9 +112,7 @@ class llama:
                 print(Fore.GREEN, Style.BRIGHT + text + Style.RESET_ALL)
                 time.sleep(random.randint(1, 3))
                 print(Fore.YELLOW, Style.BRIGHT + sep + Style.RESET_ALL)
-                with open('results.txt', 'a')as f:
-                    for i in text:
-                        f.write(text)
+
 
 
         elif samantha == 'T':
