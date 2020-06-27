@@ -1,6 +1,6 @@
 dunge = 'https://pastebin.com/hJ4wQCMm'
 google = 'https://www.google.com'
-up = 'https://github.com/ainzooalgown07/PYSearcher'
+up = 'https://github.com/The-Criminal/PyTyphon'
 a = ['1.0']
 fw = '/' 
 truth = 'https://www.truthfinder.com/people-search/'
