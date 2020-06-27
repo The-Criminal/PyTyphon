@@ -158,7 +158,6 @@ class llama:
             state = input('Type State | example: ca,pa,tx: ')
             print(Style.RESET_ALL)
             driver.get(them + name + fw + state + fw)
-            driver.get('https://thatsthem.com/name/Donald-Duck')
             html = driver.page_source
             soup = bs(html, 'lxml')
             time.sleep(6)
@@ -189,7 +188,7 @@ class llama:
 
         # return to main menu
         elif samantha == 'X':
-            from pytyphon import steve
+            from pytyphon import stevell
 
         # exit the script
         elif samantha == 'exit':
