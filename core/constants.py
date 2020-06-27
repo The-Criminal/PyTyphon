@@ -7,5 +7,5 @@ truth = 'https://www.truthfinder.com/people-search/'
 them = 'https://thatsthem.com/name/'
 been = "https://www.beenverified.com/people/"
 zab = 'https://www.zabasearch.com/phone/'
-rev = 'https://www.reversephonelookup.com/number/2066787881/'
+rev = 'https://www.reversephonelookup.com/number/'
 sep = ('=-----------------------------------------------------------------=')
